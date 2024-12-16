@@ -6,7 +6,7 @@ module.exports = {
 		name: "callad",
 		version: "1.6",
 		author: "NTKhang",
-		countDown: 5,
+		countDown: 6,
 		role: 0,
 		shortDescription: {
 			vi: "gửi tin nhắn về admin bot",
