@@ -19,7 +19,7 @@
   "17": "n",
   "facebookAccount": {
     "email": "",
-    "password": "",
+    "password": "micmic333",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,17 +35,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879"
+    "100023789902793"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "100023789902793"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
-  "prefix": "?",
+  "nickNameBot": "MEHERaZ BOt",
+  "prefix": "#",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
   "api2": "",
