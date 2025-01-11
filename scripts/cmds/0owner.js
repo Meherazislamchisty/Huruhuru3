@@ -24,7 +24,7 @@ config: {
       nick: 'CHISTY'
     };
 
-    const bold = 'https://i.imgur.com/J8brnuR.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/z7Xcjhb.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
