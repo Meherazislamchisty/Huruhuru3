@@ -14,14 +14,10 @@ module.exports = {
  onChat: async function({ event, message, getLang }) {
  if (event.body && event.body.toLowerCase() === "prefix") {
  return message.reply({
- body: `
-Yo, my prefix is [ 𓆩 _<#>_ 𓆪 ]\n
-𝗦𝗢𝗠𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗧𝗛𝗔𝗧 𝗠𝗔𝗬 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨:
-➥ &help [number of page] -> see commands
-➥ &sim [message] -> talk to bot
-➥ &callad [message] -> report any problem encountered
-➥ &help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: MEHERAZ ISLAM CHISTY`,
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/ccN3O9s.jpeg")
+ body: `→𝗣𝗥𝗜𝗙𝗜𝗫 𝗜𝗦 [#] 
+→𝗧𝗬𝗣𝗘 (#𝗵𝗲𝗹𝗽) 𝗧𝗢 𝗦𝗘𝗘 𝗔𝗟𝗟 𝗖𝗠𝗗
+→𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗛𝗘𝗥𝗔𝗭 𝗜𝗦𝗟𝗔𝗠,
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/I4v4ZmX.jpeg")
  });
  }
  }
